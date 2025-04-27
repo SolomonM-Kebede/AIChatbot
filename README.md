@@ -10,3 +10,6 @@ I am using Gradio, which provides local and public host addresses to use the cha
 # Which other option to permanent UI for public use 
 
 It is possible to use the Hagging face platform with LLM API so that anyone can use your chatbot without having access to your LLM. 
+
+## Public adress for short period
+https://201845c445552ac5cc.gradio.live
