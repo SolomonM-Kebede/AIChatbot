@@ -12,3 +12,11 @@ I am using Gradio, which provides local and public host addresses to use the cha
 It is possible to use the Hagging face platform with LLM API so that anyone can use your chatbot without having access to your LLM. 
 
 
+# How to Run(without using Hagging face directly with your local LLM)
+	1.	Make sure Ollama is running locally.(with llama3.1, deepseek-r1 or any other prefered LLM)
+	2.	Clone the repo:
+        git clone https://github.com/SolomonM-Kebede/AIChatbot.git
+        cd AIChatbot
+    3. Install requirments 
+        pip install -r requirments.txt
+    4. run the app.py
