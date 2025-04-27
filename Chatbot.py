@@ -30,6 +30,6 @@ def chat_with_bot(user_input):
 
 chat_interface = gr.Interface(fn=chat_with_bot, inputs="text", outputs="text", title="Welcome to the AI Chatbot", description= "Chat with local DeepSeek R1 Model", )
 
-chat_interface.launch(favicon_path="simple chat bot favicon png.png", share=True)
+chat_interface.launch(favicon_path="simple chat bot favicon.png", share=True)
 # if __name__ == "__main__":
 #     chat_with_bot()
