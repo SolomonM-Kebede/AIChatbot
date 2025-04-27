@@ -3,9 +3,9 @@ After I have downloaded llama3.1 and deepSeek-r1 locally, I used these LLMs to c
 # Which LLM?
 I am using, in this case, the llama3.1 model, but anyone can change that only by changing the model name after downloading the necessary LLM.
 
-#UI experience
+# UI experience
 
-I am using radio, which provides local and public host addresses to use the chatbot with a better UI. 
+I am using Gradio, which provides local and public host addresses to use the chatbot with a better UI. 
 
 # Which other option to permanent UI for public use 
 
